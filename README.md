@@ -2,8 +2,8 @@
 
 **Identitas Diri**
 
-Defit Bagus Saputra
-H1D023036
+Defit Bagus Saputra <br>
+H1D023036 <br>
 Shift C (Lama) / Shift F (Baru)
 
 **Tampilan Aplikasi (Screenshot)**
