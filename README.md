@@ -9,3 +9,11 @@ Shift C (Lama) / Shift F (Baru)
 **Tampilan Aplikasi (Screenshot)**
 
 ![Screenshot Aplikasi](screenshots/halaman_utama.jpg)
+
+# Tugas 2 - Praktikum Pemrograman Mobile Pertemuan 3
+
+## Pertemuan 3
+**Demo Aplikasi (GIF/Video)**  
+Utamanya memperlihatkan perpindahan halaman
+
+![Demo Aplikasi](screenshots/halaman2.gif)
