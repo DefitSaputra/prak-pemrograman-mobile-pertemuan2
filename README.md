@@ -17,3 +17,11 @@ Shift C (Lama) / Shift F (Baru)
 Utamanya memperlihatkan perpindahan halaman
 
 ![Demo Aplikasi](screenshots/halaman2.gif)
+
+# Tugas 3 - Praktikum Pemrograman Mobile Pertemuan 4
+
+## Pertemuan 4
+**Demo Aplikasi (GIF/Video)**  
+Memperlihatkan perpindahan List Data API
+
+![Demo Aplikasi](screenshots/pertemuan4.gif)
