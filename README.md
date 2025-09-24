@@ -22,6 +22,6 @@ Utamanya memperlihatkan perpindahan halaman
 
 ## Pertemuan 4
 **Demo Aplikasi (GIF/Video)**  
-Memperlihatkan perpindahan List Data API
+Memperlihatkan List Data API
 
 ![Demo Aplikasi](screenshots/pertemuan4.gif)
